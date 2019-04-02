@@ -16,8 +16,10 @@ For this task, I’ve provided some of the starting HTML, CSS and JS for us to w
 ## Tools:
 We’ll be using [Codepen](codepen.io) projects. Codepen is an in-browser code editor for the web.
 
+You need to create an account in order to start the workshop!
+
 ## Workshop Files:
-URL: 
+URL: https://codepen.io/markgono/project/editor/AmnYKQ
 If you go to this URL and click *Fork* in the top-right - this will make your own copy of the workshop starter files, which you can edit.
 
 ## Method
