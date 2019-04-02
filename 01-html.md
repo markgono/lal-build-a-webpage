@@ -2,8 +2,6 @@
 
 A *markup language* is a system for annotating a document in a way that is syntactically distinguishable from the text or contents of the document.
 
-(If I was writing on a notepad, and I highlighted or underlined a line in red – that’s an annotation, we all know what that means – it’s not good – a markup language is the same thing for computers)
-
 HTML is a markup language – it actually stands for HyperText Markup Language – we use it to describe the building blocks of a webpage to the browser.
 
 In terms of how it looks, we use markup to describe the elements that make up a page, so for a header it’s `<h1>Lunch & Learn</h1>`, which describes a header element – the *h* in *h1*, which contains the contents *“Lunch & Learn”*.
@@ -35,9 +33,11 @@ Let’s try modifying some HTML!
 
 First, let’s modify some contents:
 - Name your app  – we’ll be creating a visual catalog of product items!
+
 *Hint:* Look for the `intro`
 
-- Bump up that title – let’s make the last line more impactful by increasing the header weight.
+- Bump up that title – let’s make the middle line more impactful by increasing the header weight.
+
 *Hint:* We covered it above!
 
 ## Next Steps
