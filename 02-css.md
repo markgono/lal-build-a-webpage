@@ -19,9 +19,9 @@ When we covered HTML we learned that elements can have attributes.
 Selectors allow us to select an element – based on its type, attributes or even its contents.
 
 Selectors:
-• *body* – selects the body element
-• *.active* – selects any element with the class attribute “green”
-• *#main* – selects any element an id of main
+- *body* – selects the body element
+- *.active* – selects any element with the class attribute “green”
+- *#main* – selects any element an id of main
 
 > These get confusing – in the real world, we only use one selector type the most – class selectors.
 
@@ -29,9 +29,9 @@ Selectors:
 CSS rules are made up of a *property* and a *value*.
 
 Rules:
-• *text-align: right;* – aligns all the text in this element to the right
-• *background-color: black;* – sets the background colour of this element as black
-• *margin: 10px;* – puts a 10px margin around the element
+- *text-align: right;* – aligns all the text in this element to the right
+- *background-color: black;* – sets the background colour of this element as black
+- *margin: 10px;* – puts a 10px margin around the element
 
 
 ## A Complete Rule
@@ -49,7 +49,7 @@ body {
 ## CSS Challenge
 It’s time to write some CSS!
 
-• The color of our header is off – it’s looking a bit bland. If I wanted to change the background colour to blue, I could use the rule:
+- The color of our header is off – it’s looking a bit bland. If I wanted to change the background colour to blue, I could use the rule:
 ```
 .header {
 	background-color: rgb(0, 0, 255);
