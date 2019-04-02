@@ -58,7 +58,7 @@ It’s time to write some CSS!
 
 Open your `styles/main.css` and add a rule to change the header it to Gousto red!
 
-* Change the color or positioning of one other element on the page!
+- Change the color or positioning of one other element on the page!
 
 ## Next Steps
 If you’re really into CSS, you can check out the rules available:
