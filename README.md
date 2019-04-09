@@ -3,6 +3,7 @@
 Welcome to the Lunch & Learn: Code series.
 
 > http://bit.ly/lunchandlearn-code
+
 > http://bit.ly/lunchandlearn-code-workshop
 
 Today we’ll be creating a web page. Before we start, there’s a few things we need to know about how a web page is built.
