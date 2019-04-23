@@ -4,9 +4,33 @@ A *markup language* is a system for annotating a document in a way that is synta
 
 HTML is a markup language – it actually stands for HyperText Markup Language – we use it to describe the building blocks of a webpage to the browser.
 
-In terms of how it looks, we use markup to describe the elements that make up a page, so for a header it’s `<h1>Lunch & Learn</h1>`, which describes a header element – the *h* in *h1*, which contains the contents *“Lunch & Learn”*.
+## The Markup
 
-On this page, we’re using:
+In terms of how it looks, we use markup to describe the elements that make up a page.
+
+The HTML:
+
+```html
+<h1>Lunch & Learn</h1>
+```
+
+Describes a **Header** element (the *h* in *h1*) which contains the text **Lunch & Learn**.
+
+Most HTML Elements require opening and closing tags, this allows us to put things inside of them!
+
+```html
+<ul>
+  <li>Salt</li>
+  <li>Pepper</li>
+  <li>Olive Oil</li>
+</ul>
+```
+
+Describes a **List** element (an unordered list) which contains **3 List Items**: Salt, Pepper and Olive Oil.
+
+---
+
+On our page, we’re using:
 Some required elements:
 - *html* – Every page starts and ends with this!
 - *head* – For hidden information about the page
@@ -17,28 +41,47 @@ Some lesser elements:
 - *ul* - an unordered list
 - *div* - a division. /We use these to separate and group elements together/
 
-HTML elements can also have attributes that further define the element, so for `<img src="http://placekitten.com/200/300" />` we’re defining an image element, that is *sourced* from placekitten.com.
+## HTML Attributes
 
-We could also assign an id:
-`<h3 id=“#welcome”>Welcome to Gousto</h3>`
-or a class:
-`<p class="description">Precise ingredients, delicious recipes and a dollop of adventure.</p>`
+HTML elements can also have attributes that further define the element.
 
-> Try it out!
-> Put this anywhere on the page:
-> `<img src="http://placekitten.com/200/300" />`
+```html
+<img src="http://placekitten.com/200/300" />
+```
+Describes an **Image** element whose contents are *sourced* from placekitten.com
+
+### Try it!
+
+Try copying and pasting the above image into your page, between the body tags!
+
+Also, try changing the numbers or adding multiple `img` tags - What happens?
+
+---
+
+We could also assign an ID:
+```html
+<h3 id=“#welcome”>Welcome to Gousto</h3>
+```
+or some classes:
+```html
+<p class="description">Precise ingredients, delicious recipes and a dollop of adventure.</p>
+```
 
 ## HTML Challenge
 Let’s try modifying some HTML!
 
-First, let’s modify some contents:
-- Name your app  – we’ll be creating a visual catalog of product items!
+### Challenge 1
 
-*Hint:* Look for the `intro`
+First, let’s modify our title!
 
-- Bump up that title – let’s make the middle line more impactful by increasing the header weight.
+Let’s tell the browser to make the middle line more impactful by increasing the importance of the header.
 
-*Hint:* We covered it above!
+> No CSS required!
+
+### Challenge 2
+Name your app!
+
+Change the contents of the title to whatever you want!
 
 ## Next Steps
 Great, that’s a short intro into HTML essentials.
