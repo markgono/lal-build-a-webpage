@@ -37,10 +37,10 @@ For this task, I’ve provided some of the starting HTML, CSS and JS for us to w
 ---
 
 ## Prerequisites:
-You need to create a [Codepen](codepen.io) account
+You need to create a [Codepen](http://codepen.io) account
 
 ## Tools:
-We’ll be using [Codepen](codepen.io) projects. Codepen is an in-browser code editor for the web.
+We’ll be using [Codepen](http://codepen.io) projects. Codepen is an in-browser code editor for the web.
 
 # Getting Started:
 - Sign up for CodePen if you haven't already
