@@ -6,7 +6,7 @@ Welcome to the Lunch & Learn: Code series.
 
 ### Workshop Files:
 
-**http://bit.ly/lunchandlearn-code-workshop**
+**http://bit.ly/lunchandlearn-workshop**
 
 ### Workshop Document <small>(This Page)</small>:
 
@@ -45,7 +45,7 @@ We’ll be using [Codepen](codepen.io) projects. Codepen is an in-browser code e
 # Getting Started:
 - Sign up for CodePen if you haven't already
 - Go to the URL:
-  `http://bit.ly/lunchandlearn-code-workshop`
+  `http://bit.ly/lunchandlearn-workshop`
 - Click **Fork** in the top-right
 
 This will make your own copy of the workshop starter files, which you can edit.
